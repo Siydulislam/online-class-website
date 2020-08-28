@@ -11,6 +11,8 @@ const Footer = () => {
                         <div className="row">
                             <div className="col-md-3">
                                 <h4>Contact Us</h4>
+                                <h6>Dhaka</h6>
+                                <h6>Bangladesh</h6>
 
                             </div>
                             <div className="col-md-3">
