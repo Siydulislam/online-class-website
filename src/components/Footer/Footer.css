@@ -1,0 +1,22 @@
+
+.footer-bg{
+    background-color: #282531;
+}
+.footer-color{
+    color: white;
+}
+.list-type{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.list-color{
+    color: white;
+}
+ul li a:hover{
+    text-decoration: none;
+    color: #585859;
+}
+.copyright{
+    color: #CDCDCD;
+}

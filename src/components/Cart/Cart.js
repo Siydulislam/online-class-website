@@ -10,7 +10,7 @@ const Cart = (props) => {
     }
 
     return (
-        <div className="card text-center mt-5">
+        <div className="card text-center mt-5 position-fixed">
             <div className="card-header bg-dark text-white">
                 <h2>Order Summary</h2>
             </div>

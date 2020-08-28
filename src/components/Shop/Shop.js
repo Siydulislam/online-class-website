@@ -5,7 +5,7 @@ import Courses from '../Courses/Courses';
 import Cart from '../Cart/Cart';
 
 const Shop = () => {
-    const first12 = fakeData.slice(0,12);
+    const first12 = fakeData.slice(0,15);
     const [courses, setCourses] = useState(first12);
     const [cart, setCart] = useState([]);
 
